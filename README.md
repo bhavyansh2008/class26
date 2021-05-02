@@ -1,3 +1,2 @@
-# class26
-my first github project
-my first commit
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
